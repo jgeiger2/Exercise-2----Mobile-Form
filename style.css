@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-content: center;    
+}
+
+.phone {
+    width: 375px;
+    height: 600px;
+    border: 1px solid;
+}
+
+.status-bar {
+    background-color: rgb(0, 124, 124);
+    height: 20px;
+}
+
+.menu-bar {
+    background-color: rgba(0, 152, 152, 0.718);
+    height: 60px;
+}
