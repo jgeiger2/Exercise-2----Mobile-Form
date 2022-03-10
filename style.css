@@ -19,3 +19,42 @@ body {
     background-color: rgba(0, 152, 152, 0.718);
     height: 60px;
 }
+
+::placholder {
+    text-indent: 20px;
+}
+
+input {
+    background-color: rgb(195, 193, 193);
+    height: 30px;
+    width: 250px;
+    margin-left: 80px;
+    border: 0;
+    border-bottom: 1px solid;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+input:first-child {
+    margin-top: 40px;
+}
+
+.pnum {
+    width: 150px;
+    background-color: transparent;
+    border: 1px solid;
+}
+
+select {
+    height: 20px;
+    width: 90px;
+}
+
+.state {
+    margin-left: 80px;
+}
+
+.zip {
+    width: 125px;
+}
+
